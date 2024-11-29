@@ -1,0 +1,77 @@
+
+.allcard {
+  
+  text-align: center;
+}
+.base {
+    background: linear-gradient(70deg, rgb(220, 220, 153), rgb(74, 74, 141), rgb(112, 176, 112));
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.image {
+    text-transform: capitalize;
+    border: 4px solid rgb(186, 207, 187);
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(217, 228, 208);
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.number {
+  font-size: xx-large;
+}
+
+.pokemon__name {
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  border: 2px solid black;
+  margin-right: 150px;
+  margin-left: 150px;
+  border-radius: 16px;
+
+}
+
+.firstspan{
+
+margin-right: 8px;
+
+}
+
+.heightandweight {
+  color: rgb(77, 24, 5);
+  font-size: 18px;
+}
+
+.type {
+color: black;
+border: 2px solid black;
+margin-right: 150px;
+margin-left: 150px;
+border-radius: 16px;
+font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+.caracteristic {
+  color: rgb(77,24,5);
+  font-size: 18px;
+}
+
+
+.skill {
+  color: black;
+  border: 2px solid black;
+  margin-right: 150px;
+  margin-left: 150px;
+  border-radius: 16px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.habilidades {
+  color: rgb(77,24,5);
+  font-size: 18px;
+  
+}

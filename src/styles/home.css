@@ -1,0 +1,48 @@
+.home {
+background-image: url('../../public/pikachu.gif');  
+display: grid;
+place-content: center;
+height: 100dvh;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.home__title, .home__text{
+margin-bottom: .5em;
+font-size: 32px;
+}
+
+
+.home__input {
+
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: .5em 1em;
+    border-radius: 4px 0 0 4px;
+}
+
+.home__btn{
+    background-color: brown;
+    border: transparent;
+    padding: .5em 1em;
+    border-radius: 0 4px 4px 0;
+    color: white;
+    cursor: pointer;
+    transition: background-color .2s easy-in-out;
+}
+
+.home__btn:hover{
+    background-color: rgb(80, 21, 21);
+}
+
+.home__link {
+color: rgb(106, 59, 151);
+font-weight: 700;
+
+}
+
+.btn--radius {
+    border-radius: 4px;
+}
+
